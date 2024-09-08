@@ -1,0 +1,6 @@
+git init
+git status
+git add .\testing.py
+git commit -m "File is tracked"
+git restore testing.py
+git rm cached filename    - stage to unstage
