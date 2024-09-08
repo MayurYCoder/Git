@@ -4,3 +4,4 @@ git add .\testing.py
 git commit -m "File is tracked"
 git restore filename - if tracked file is deleted then from this we can restore it
 git rm cached filename    - stage to unstage
+.
