@@ -7,3 +7,4 @@ git restore filename - if tracked file is deleted then from this we can restore 
 git rm cached filename    - stage to unstage
 .
 git log
+git 
