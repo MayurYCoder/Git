@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 1
-=======
 git init
 git status
 git add .\testing.py
@@ -8,4 +6,11 @@ git commit -m "File is tracked"
 git restore filename - if tracked file is deleted then from this we can restore it
 git rm cached filename    - stage to unstage
 .
->>>>>>> 59e531089a767c7693c573a80b8093fe1fa69f7d
+git log
+git 
+
+git status
+git add git_command.txt
+git status
+git commit -m " Commands_file"
+
