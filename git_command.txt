@@ -2,5 +2,17 @@ git init
 git status
 git add .\testing.py
 git commit -m "File is tracked"
-git restore testing.py
+git restore filename - if tracked file is deleted then from this we can restore it
 git rm cached filename    - stage to unstage
+
+ git add git_command.txt
+ git status
+ git commit -m " Commands_file"
+ git status
+ clear
+ git remote add origin 
+   git remote -v
+   git remote -v
+   git remote set-url origin    use generated classic token here
+   git remote -v
+   git push origin master
