@@ -1,1 +1,2 @@
-Commit3 in master
+Commit3 in master checking for rebase
+
